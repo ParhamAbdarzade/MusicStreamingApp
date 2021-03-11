@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086607423393",
+    "project_id": "spotify-f10a3",
+    "storage_bucket": "spotify-f10a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086607423393:android:15f447057eaaf3def8fde0",
+        "android_client_info": {
+          "package_name": "ir.urmis.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086607423393-svh61lutfkprbgfgvstok6enthhtbpvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR2JVw9i7Zv5bUDJz1Tb5miq7bOAzK36U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086607423393-svh61lutfkprbgfgvstok6enthhtbpvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
