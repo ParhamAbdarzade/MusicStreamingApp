@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming
+package ir.urmis.musicstreaming
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming.utils
+package ir.urmis.musicstreaming.utils
 
 object Constants {
 

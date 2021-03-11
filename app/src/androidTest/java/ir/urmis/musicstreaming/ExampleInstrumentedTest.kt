@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming
+package ir.urmis.musicstreaming
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

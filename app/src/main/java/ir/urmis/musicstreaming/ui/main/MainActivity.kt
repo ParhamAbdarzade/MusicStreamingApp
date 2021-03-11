@@ -1,8 +1,8 @@
-package ir.urmis.MusicStreaming.ui.main
+package ir.urmis.musicstreaming.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import ir.urmis.MusicStreaming.R
+import ir.urmis.musicstreaming.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

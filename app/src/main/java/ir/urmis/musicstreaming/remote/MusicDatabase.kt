@@ -1,8 +1,8 @@
-package ir.urmis.MusicStreaming.remote
+package ir.urmis.musicstreaming.remote
 
 import com.google.firebase.firestore.FirebaseFirestore
-import ir.urmis.MusicStreaming.data.entities.Song
-import ir.urmis.MusicStreaming.utils.Constants.SONGS_COLLECTION
+import ir.urmis.musicstreaming.data.entities.Song
+import ir.urmis.musicstreaming.utils.Constants.SONGS_COLLECTION
 import kotlinx.coroutines.tasks.await
 
 class MusicDatabase : Repository {

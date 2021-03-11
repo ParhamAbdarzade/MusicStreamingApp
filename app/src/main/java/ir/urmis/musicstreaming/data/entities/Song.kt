@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming.data.entities
+package ir.urmis.musicstreaming.data.entities
 
 data class Song(
     val media_id: String = "",

@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming
+package ir.urmis.musicstreaming
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package ir.urmis.MusicStreaming.di
+package ir.urmis.musicstreaming.di
 
 import dagger.Module
 import dagger.hilt.InstallIn
